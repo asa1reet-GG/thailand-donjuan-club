@@ -23,7 +23,7 @@ This text will be pruple
 [[Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 1 - Docs\|ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 1 - Docs]]
 [[Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 2 - Docs\|ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 2 - Docs]]
 
-```
+```css
 /*
     dataview-shorten-links.css snippet
 
