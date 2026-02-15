@@ -18,10 +18,25 @@ This text will be pruple
 ```
 ---
 ## Step 1 - มือใหม่เริ่มที่นี่
+
 [[Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/คำถามที่มือใหม่ถามกันบ่อย ตอบไว้ให้แล้วในที่เดียว - Craig Reeves\|คำถามที่มือใหม่ถามกันบ่อย ตอบไว้ให้แล้วในที่เดียว - Craig Reeves]]
 [[Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 1 - Docs\|ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 1 - Docs]]
 [[Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 2 - Docs\|ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 2 - Docs]]
 
+```
+/*
+    dataview-shorten-links.css snippet
+
+    Shortens long filename links in Dataview tables with an ellipsis.
+    2021-05-07 Matthias C. Hormann (Moonbase59)
+*/
+.dataview.table-view-table > tbody > tr > td a {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+```
 
 ---
 
