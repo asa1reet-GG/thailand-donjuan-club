@@ -13,9 +13,10 @@ This text will be pruple
 
 หลายคนอาจเคยได้ยินชื่อ **SoSuave** หรือ **DonJuan Bible** มาบ้าง แต่อาจจะติดขัดที่ภาษาอังกฤษเข้าใจยาก หรือบริบทบางอย่างดูไกลตัวไปนิด ผมเลยตั้งใจหยิบเอาบทความ "ตัวท็อป" ที่เปลี่ยนชีวิตผู้ชายมาแล้วนับไม่ถ้วน มาแปลและเรียบเรียงใหม่ให้เป็นสไตล์ไทยๆ อ่านแล้วเข้าถึงง่ายเหมือนเพื่อนมานั่งแชร์ประสบการณ์ให้ฟัง เพื่อให้พวกเราทุกคนได้อัปเกรดตัวเองเป็นผู้ชายที่มีเสน่ห์และมั่นใจในแบบที่เป็นตัวเองครับ
 
-```graphql
-#h/red **This bold text will be red**
-```
+<span class="c-red">Important red text</span>
+<span class="c-green">Success text</span>
+<span style="color:#ff6b6b">custom hex color</span>
+<span class="c-red">Important red text</span>
 ---
 ## Step 1 - มือใหม่เริ่มที่นี่
 
