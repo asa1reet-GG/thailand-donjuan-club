@@ -20,7 +20,7 @@
 ## Step 2 - เนื้อหาที่ช่วยยกระดับความรู้
 
 fifteen lessons
-
+[[Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/บัญญัติ 10 ประการ - Mr. Fingers\|บัญญัติ 10 ประการ - Mr. Fingers]]
 
 ---
 ## Step 3 - Jerk vs nice guy
