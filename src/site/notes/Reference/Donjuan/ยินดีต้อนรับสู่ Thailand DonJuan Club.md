@@ -69,12 +69,3 @@ fifteen lessons
 ---
 ## Step 3 - Jerk vs nice guy
 
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/วิถีชั่ว - stockholder\|วิถีชั่ว - stockholder]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/คนเลว vs. คนดี ภาคไม่จบไม่สิ้น - Adonis\|คนเลว vs. คนดี ภาคไม่จบไม่สิ้น - Adonis]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/ความลับของ Jerk\|ความลับของ Jerk]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/คำสารภาพของพ่อหนุ่มแสนดี - CoolHandLuke\|คำสารภาพของพ่อหนุ่มแสนดี - CoolHandLuke]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/คู่มือคนเลวที่แสนดี - BigDon\|คู่มือคนเลวที่แสนดี - BigDon]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/ทฤษฎี ขี้ - RonJuan\|ทฤษฎี ขี้ - RonJuan]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/เธอคิดว่าคุณมันเฮงซวย แล้วก็... ตู้ม! - Giovanni Casanova\|เธอคิดว่าคุณมันเฮงซวย แล้วก็... ตู้ม! - Giovanni Casanova]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/ผู้ชายแสนดีมักถูกทิ้ง ต้องอ่าน! - jesterguy25\|ผู้ชายแสนดีมักถูกทิ้ง ต้องอ่าน! - jesterguy25]]
-[[Reference/Donjuan/Step 3 - jerk vs nice guy/เลววันเดียว - BigBill\|เลววันเดียว - BigBill]]
