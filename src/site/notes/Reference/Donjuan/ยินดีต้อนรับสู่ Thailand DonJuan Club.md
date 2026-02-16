@@ -300,5 +300,11 @@
 [[Reference/Donjuan/รีวิวและประสบการณ์จริง/แค่คำขอบคุณง่ายๆ - ZTIME\|แค่คำขอบคุณง่ายๆ - ZTIME]]
 
 
+---
+
+
+> [!warning] เข้าร่วมชุมชนและพูดคุยแนวคิด Don Juan กับพวกเรา
+> [<img style="float:left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQok4Mx-lphDESRZ0DPjAZVcH2BEchWiEHl7w&s" width="200">](https://discord.gg/uczfyKFnZ4) 
+
 
 
