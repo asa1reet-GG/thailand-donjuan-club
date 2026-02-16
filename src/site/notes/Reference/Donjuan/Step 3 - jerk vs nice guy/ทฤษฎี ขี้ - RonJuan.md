@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/ron-juan/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/ทฤษฎี ขี้ - RonJuan/"}
 ---
 
 

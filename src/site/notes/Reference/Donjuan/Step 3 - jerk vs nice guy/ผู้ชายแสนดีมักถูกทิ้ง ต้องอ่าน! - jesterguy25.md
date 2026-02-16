@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/jesterguy25/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/ผู้ชายแสนดีมักถูกทิ้ง ต้องอ่าน! - jesterguy25/"}
 ---
 
 **หัวข้อวันนี้: คำสาปของพ่อหนุ่มแสนดี**

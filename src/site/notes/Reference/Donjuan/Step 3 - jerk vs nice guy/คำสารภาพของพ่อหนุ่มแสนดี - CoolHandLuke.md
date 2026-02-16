@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/cool-hand-luke/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/คำสารภาพของพ่อหนุ่มแสนดี - CoolHandLuke/"}
 ---
 
 ช่วงนี้ผมอ่านโพสต์ของมือใหม่หัดจีบสาวในบอร์ดนี้เยอะมาก เลยพยายามหาข้อมูลมาแชร์เพื่อช่วยพวกคุณ สุดท้ายผมคิดว่าวิธีที่ดีที่สุดคือการเล่าเรื่องของตัวเอง ถ้าเรื่องนี้ช่วยใครได้สักคน ผมก็พอใจแล้ว

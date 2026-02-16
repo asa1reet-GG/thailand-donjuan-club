@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/jerk/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/ความลับของ Jerk/"}
 ---
 
 นี่คือบทความที่แปลเป็นภาษาไทยในรูปแบบที่เป็นทางการและเป็นธรรมชาติ โดยจัดทำเป็นไฟล์ Markdown พร้อมหัวข้อที่เหมาะสมครับ

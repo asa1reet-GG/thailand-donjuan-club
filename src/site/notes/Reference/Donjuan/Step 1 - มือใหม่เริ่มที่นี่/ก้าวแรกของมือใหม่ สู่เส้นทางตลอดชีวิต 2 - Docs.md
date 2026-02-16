@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-1/2-docs/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/ก้าวแรกของมือใหม่ สู่เส้นทางตลอดชีวิต 2 - Docs/"}
 ---
 
 

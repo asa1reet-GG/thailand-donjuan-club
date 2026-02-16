@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/stockholder/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/วิถีชั่ว - stockholder/"}
 ---
 
 นี่คือคัมภีร์สำหรับคนที่อยากได้รับความสำคัญแบบเหนือระดับ คุณต้องเป็น "ตัวแสบ" ที่มีชั้นเชิง ไม่ใช่แค่ "ไอ้เลว" ทั่วไป ของแบบนี้คนประเภทเดียวกันเขาดูออก

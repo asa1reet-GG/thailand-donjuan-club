@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-1/craig-reeves/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 1 - มือใหม่เริ่มที่นี่/คำถามที่มือใหม่ถามกันบ่อย ตอบไว้ให้แล้วในที่เดียว - Craig Reeves/"}
 ---
 
 

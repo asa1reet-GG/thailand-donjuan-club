@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/big-bill/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/เลววันเดียว - BigBill/"}
 ---
 
 เลิกเป็นพ่อพระที่ไม่มีใครเอาไม่ได้สักทีใช่ไหม? ลองสวมบทเป็นไอ้ตัวแสบดูสักวันในอาทิตย์นี้ดูสิ ปัญหาใหญ่ของพวกผู้ชายแสนดีที่สาวไม่แลคือความกลัว กลัวว่าคนอื่นจะไม่ยอมรับ

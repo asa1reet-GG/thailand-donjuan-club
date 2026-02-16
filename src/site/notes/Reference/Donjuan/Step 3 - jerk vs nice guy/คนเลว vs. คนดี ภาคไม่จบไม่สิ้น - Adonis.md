@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-3-jerk-vs-nice-guy/vs-adonis/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 3 - jerk vs nice guy/คนเลว vs. คนดี ภาคไม่จบไม่สิ้น - Adonis/"}
 ---
 
 นี่คือคำแปลในสไตล์ภาษาโซเชียล/กระทู้พันทิป-เรดดิต (Pantip/Reddit) แบบเน้นความมันส์และใช้ศัพท์แสลงวัยรุ่นครับ

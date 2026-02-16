@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/step-2/pook/"}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/กำจัดความสิ้นหวัง - Pook/"}
 ---
 
 
