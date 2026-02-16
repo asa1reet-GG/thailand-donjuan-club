@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/Reference/Donjuan/ยินดีต้อนรับสู่ Thailand DonJuan Club/","tags":["gardenEntry"]}
 ---
 
-# <span style="color:#f1c40f">ตำราดอนฮวนฉบับดั้งเดิม</span>
+# <span style="color:#f1c40f">ตำราดอนฮวนฉบับรวบตึงจากเว็บบอร์ด</span>
 
-บทความทั้งหมดในเว็บไซต์นี้ถูกคัดสรรและแปลมาจาก **SoSuave Forum** ซึ่งเป็น Community ของดอนฮวนที่ใหญ่และเก่าแก่ที่สุดแห่งหนึ่งในโลก (ช่วงปี 1998-2003) เราไม่ได้แค่แปลคำต่อคำแบบ Google Translate แต่เรา **"ถอดรหัส"** เอาเนื้อหาเน้นๆ ใจความสำคัญ และจิตวิทยาความสัมพันธ์ที่ใช้ได้จริง มาเรียบเรียงใหม่ด้วยภาษาไทยที่นุ่มนวลแต่ตรงไปตรงมา เพื่อให้พี่น้องชาวไทยได้เข้าถึงวิชาการพัฒนาตัวเองระดับสากล โดยไม่ต้องกังวลเรื่องกำแพงภาษาครับ
+บทความทั้งหมดในเว็บไซต์นี้ถูกคัดสรรและแปลมาจาก **SoSuave Forum** ซึ่งเป็น Community ของดอนฮวนหลายๆคนที่ใหญ่และเก่าแก่ที่สุดแห่งหนึ่งในโลก (ช่วงปี 1998-2003) เราไม่ได้แค่แปลคำต่อคำแบบ Google Translate แต่เรา **"ถอดรหัส"** เอาเนื้อหาเน้นๆ ใจความสำคัญ และจิตวิทยาความสัมพันธ์ที่ใช้ได้จริง มาเรียบเรียงใหม่ด้วยภาษาไทยที่นุ่มนวลแต่ตรงไปตรงมา เพื่อให้พี่น้องชาวไทยได้เข้าถึงวิชาการพัฒนาตัวเองระดับสากล โดยไม่ต้องกังวลเรื่องกำแพงภาษาครับ
 
 อ่านต้นฉบับได้ที่ [Donjuan Bible](http://www.djbible.classicalgasemissions.com/index.html)
 
+> [!info] เนื้อหาฉบับดั้งเดิม
+> [[Reference/Donjuan/บทความโดย Allen Thompson\|อ่านตำราดอนฮวนฉบับดั้งเดิมโดยผู้ก่อตั้ง Sosuave ]] 
 
 ---
 ## Step 1 - มือใหม่เริ่มที่นี่
@@ -19,7 +21,7 @@
 ---
 ## Step 2 - เนื้อหาที่ช่วยยกระดับความรู้
 
-fifteen lessons
+[[Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/15 บทเรียน - Pook\|15 บทเรียน - Pook]]
 [[Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/บัญญัติ 10 ประการ - Mr. Fingers\|บัญญัติ 10 ประการ - Mr. Fingers]]
 [[Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/เหนือกว่าเสมอ - Mr. Fingers\|เหนือกว่าเสมอ - Mr. Fingers]]
 [[Reference/Donjuan/Step 2 - เนื้อหาที่ช่วยยกระดับความรู้/In-House โดย Roosh\|In-House โดย Roosh]]
@@ -135,7 +137,7 @@ fifteen lessons
 ## Step 5 - ทัศนคติ
 
 [[Reference/Donjuan/Step 5 - ทัศนคติ/อาวุธยั่วยวนอานุภาพสูง - Señor Fingers\|อาวุธยั่วยวนอานุภาพสูง - Señor Fingers]]
-[[Reference/Donjuan/Step 5 - ทัศนคติ/แหย่รังแตนใน Gp.com ด้วยเคล็ดลับของผม - DIESEL\|แหย่รังแตนใน Gp.com ด้วยเคล็ดลับของผม - DIESEL]]
+[[Reference/Donjuan/Step 5 - ทัศนคติ/แหย่รังแตนด้วยเคล็ดลับของผม - DIESEL\|แหย่รังแตนด้วยเคล็ดลับของผม - DIESEL]]
 [[Reference/Donjuan/Step 5 - ทัศนคติ/3 กุญแจสำคัญสู่ความสำเร็จกับเพศตรงข้าม... - Wyldfire\|3 กุญแจสำคัญสู่ความสำเร็จกับเพศตรงข้าม... - Wyldfire]]
 [[Reference/Donjuan/Step 5 - ทัศนคติ/กับดักชีวิต -  VIVAlasVEGASBaby\|กับดักชีวิต -  VIVAlasVEGASBaby]]
 [[Reference/Donjuan/Step 5 - ทัศนคติ/การขี้บ่น คร่ำครวญ และร้องไห้ฟูมฟาย - MrSassyPants\|การขี้บ่น คร่ำครวญ และร้องไห้ฟูมฟาย - MrSassyPants]]
@@ -204,5 +206,99 @@ fifteen lessons
 [[Reference/Donjuan/Step 6 - การดึงดูด/แสร้งทำเป็นอบอุ่น - CHALENGE GUY\|แสร้งทำเป็นอบอุ่น - CHALENGE GUY]]
 [[Reference/Donjuan/Step 6 - การดึงดูด/อะไรที่มัน 'เหนือกว่า' ความมั่นใจ... - Nine Breaker\|อะไรที่มัน 'เหนือกว่า' ความมั่นใจ... - Nine Breaker]]
 [[Reference/Donjuan/Step 6 - การดึงดูด/อารมณ์ขัน = ความมั่นใจ - BigDon\|อารมณ์ขัน = ความมั่นใจ - BigDon]]
+
+
+---
+## Step 7 - วิธีสนทนา
+
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/อะไรก็ได้...ยกเว้น ไม่ - Peak\|อะไรก็ได้...ยกเว้น ไม่ - Peak]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/The crook... - Deagleclaw\|The crook... - Deagleclaw]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/กฎข้อที่ 1 ต้องได้เบอร์เธอ! - BGMan\|กฎข้อที่ 1 ต้องได้เบอร์เธอ! - BGMan]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/คู่มือการเป็นผู้ฟังที่ดี - Sociopath31\|คู่มือการเป็นผู้ฟังที่ดี - Sociopath31]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/บทสนทนาสู่ใจเธอ - A Turtle Name Adrian\|บทสนทนาสู่ใจเธอ - A Turtle Name Adrian]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ปิดการขาย 95% พร้อมคว้าเดท! - Master of the Universe\|ปิดการขาย 95% พร้อมคว้าเดท! - Master of the Universe]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ผู้หญิง! - Pook (แปลเอง)\|ผู้หญิง! - Pook (แปลเอง)]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/รักที่ตัวตน...แค่เรื่องหลอก - DarkDream\|รักที่ตัวตน...แค่เรื่องหลอก - DarkDream]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/เริ่มต้นการสนทนา - DJ de Florida\|เริ่มต้นการสนทนา - DJ de Florida]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/วิธีขอเบอร์และแยก - Pimpologist\|วิธีขอเบอร์และแยก - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/วิธีเป็นนักสนทนาที่ดีขึ้น - Poet\|วิธีเป็นนักสนทนาที่ดีขึ้น - Poet]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/วิธีเผด็จศึกแบบง่ายและสนุก - disciple\|วิธีเผด็จศึกแบบง่ายและสนุก - disciple]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 การเชื่อมโยงผ่านความเข้าใจและการเข้าถึง - Pimpologist\|ศาสตร์แมงดา 101 การเชื่อมโยงผ่านความเข้าใจและการเข้าถึง - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 การตั้งคำถามแบบทึกทัก - Pimpologist\|ศาสตร์แมงดา 101 การตั้งคำถามแบบทึกทัก - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 1 - Pimpologist\|ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 1 - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 2 - Pimpologist\|ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 2 - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 3 - Pimpologist\|ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 3 - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 4 - Pimpologist\|ศาสตร์แมงดา 101 บทสนทนา - ตอนที่ 4 - Pimpologist]]
+[[Reference/Donjuan/Step 7 - วิธีสนทนา/อดีตคืออดีต - Take No Dirt\|อดีตคืออดีต - Take No Dirt]]
+
+---
+## การสัมผัส
+
+[[Reference/Donjuan/การสัมผัส/สุดยอดคู่มือการ Kino - T Dog\|สุดยอดคู่มือการ Kino - T Dog]]
+[[Reference/Donjuan/การสัมผัส/Kinesthetics (ศาสตร์แห่งการสัมผัส) - Nicholas Hill\|Kinesthetics (ศาสตร์แห่งการสัมผัส) - Nicholas Hill]]
+[[Reference/Donjuan/การสัมผัส/KINO เครื่องมือของดอนฮวนที่ถูกลืมและถูกใช้ผิดๆ - Grey Fox\|KINO เครื่องมือของดอนฮวนที่ถูกลืมและถูกใช้ผิดๆ - Grey Fox]]
+[[Reference/Donjuan/การสัมผัส/Kino ที่แท้จริงคืออะไร (ขั้นสูง) - DeepBlue\|Kino ที่แท้จริงคืออะไร (ขั้นสูง) - DeepBlue]]
+[[Reference/Donjuan/การสัมผัส/การแตะเนื้อต้องตัว (Kino) นี่แหละที่เปลี่ยนทุกอย่าง - trickynick\|การแตะเนื้อต้องตัว (Kino) นี่แหละที่เปลี่ยนทุกอย่าง - trickynick]]
+[[Reference/Donjuan/การสัมผัส/รวมเทคนิค KINO (อีกกระทู้) - Cyledehysp\|รวมเทคนิค KINO (อีกกระทู้) - Cyledehysp]]
+
+---
+## Sex
+
+[[Reference/Donjuan/Sex/หนังโป๊กับการเดทผู้หญิง - terminator911\|หนังโป๊กับการเดทผู้หญิง - terminator911]]
+[[Reference/Donjuan/Sex/กฎสำหรับ One Night Stand - Deagleclaw\|กฎสำหรับ One Night Stand - Deagleclaw]]
+[[Reference/Donjuan/Sex/การนวด - Eternal\|การนวด - Eternal]]
+[[Reference/Donjuan/Sex/เทคนิคดมกลิ่นนี่มันได้ผล... โอ้วววว ใช่เลยยยย! - Krynnster\|เทคนิคดมกลิ่นนี่มันได้ผล... โอ้วววว ใช่เลยยยย! - Krynnster]]
+[[Reference/Donjuan/Sex/เป็นนักรักที่ยอดเยี่ยม! - Deagleclaw\|เป็นนักรักที่ยอดเยี่ยม! - Deagleclaw]]
+[[Reference/Donjuan/Sex/เรื่องเซ็กส์ - ไม่ใช่เรื่องล้อเล่น - Jester\|เรื่องเซ็กส์ - ไม่ใช่เรื่องล้อเล่น - Jester]]
+[[Reference/Donjuan/Sex/สุดยอดเทคนิคเรื่องบนเตียงขั้นสูงของ Sir_Chancealot - Sir_Chancealot\|สุดยอดเทคนิคเรื่องบนเตียงขั้นสูงของ Sir_Chancealot - Sir_Chancealot]]
+
+---
+## ผู้หญิงที่ควรหลีกเลี่ยง
+
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/เสือผู้หญิงกับคุณแม่เลี้ยงเดี่ยว - Bungo Pony\|เสือผู้หญิงกับคุณแม่เลี้ยงเดี่ยว - Bungo Pony]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/Red Flags (สัญญาณอันตราย) - Bungo Pony\|Red Flags (สัญญาณอันตราย) - Bungo Pony]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/คุณเคยเจอผู้หญิงคนนี้ไหมครับ - RKTek\|คุณเคยเจอผู้หญิงคนนี้ไหมครับ - RKTek]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/จุดสังเกต (Red Flags) จากโซเชียลมีเดียของผู้หญิง - Zapp Brannigan\|จุดสังเกต (Red Flags) จากโซเชียลมีเดียของผู้หญิง - Zapp Brannigan]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/ผู้หญิง 8 ประเภท ที่ต้องหลีกเลี่ยงให้ไกลสุดชีวิต - sux2bu\|ผู้หญิง 8 ประเภท ที่ต้องหลีกเลี่ยงให้ไกลสุดชีวิต - sux2bu]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/ผู้หญิงประเภทที่อันตรายที่สุดในโลก - STR8UP\|ผู้หญิงประเภทที่อันตรายที่สุดในโลก - STR8UP]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/ระวัง!!! ผู้หญิงที่เป็นโรค Borderline Personality Disorder - Pimp-sicle\|ระวัง!!! ผู้หญิงที่เป็นโรค Borderline Personality Disorder - Pimp-sicle]]
+[[Reference/Donjuan/ผู้หญิงที่ควรหลีกเลี่ยง/วิธีสังเกตผู้หญิงร้ายๆ ตั้งแต่เนิ่นๆ - gixxer\|วิธีสังเกตผู้หญิงร้ายๆ ตั้งแต่เนิ่นๆ - gixxer]]
+
+---
+## ความสัมพันธ์ระยะยาว
+
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/สุดยอดคำแนะนำสำหรับความสัมพันธ์ระยะยาว (LTRs) - Gold Heart\|สุดยอดคำแนะนำสำหรับความสัมพันธ์ระยะยาว (LTRs) - Gold Heart]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/LTR กับการตามหาความสุข - Pneuma\|LTR กับการตามหาความสุข - Pneuma]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/MLTR, การเดทผู้หญิงมากกว่าหนึ่งคนพร้อมๆกัน - Jake Steed\|MLTR, การเดทผู้หญิงมากกว่าหนึ่งคนพร้อมๆกัน - Jake Steed]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/การวางขอบเขต - guru1000\|การวางขอบเขต - guru1000]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ความเข้ากันได้ในความสัมพันธ์ระยะยาว (LTR) - Take No Dirt\|ความเข้ากันได้ในความสัมพันธ์ระยะยาว (LTR) - Take No Dirt]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ความสัมพันธ์ระยะยาว (LTR)  - Nine Breaker\|ความสัมพันธ์ระยะยาว (LTR)  - Nine Breaker]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/พัฒนาการตามธรรมชาติของความสัมพันธ์ - Wyldfire\|พัฒนาการตามธรรมชาติของความสัมพันธ์ - Wyldfire]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster\|โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/วิธีมัดใจสาวให้อยู่กับเราไปนานๆ - Take No Dirt\|วิธีมัดใจสาวให้อยู่กับเราไปนานๆ - Take No Dirt]]
+[[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl\|ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl]]
+
+---
+## แนวคิด Anti-Dump (รวบรวมโดย Pook)
+
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 1 ระดับความสนใจ - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 1 ระดับความสนใจ - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 2 ระดับความสนใจที่มากขึ้น - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 2 ระดับความสนใจที่มากขึ้น - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 3 คุณ 'ซื้อ' ความสัมพันธ์ ไม่ใช่ 'สร้าง' มันขึ้นมา - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 3 คุณ 'ซื้อ' ความสัมพันธ์ ไม่ใช่ 'สร้าง' มันขึ้นมา - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 4 โอบรับการลงมือทำ จุดอ่อนของผู้หญิง - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 4 โอบรับการลงมือทำ จุดอ่อนของผู้หญิง - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 5 ผู้หญิงและข้อมูล - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 5 ผู้หญิงและข้อมูล - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 6 สามคำเปลี่ยนชีวิต! - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 6 สามคำเปลี่ยนชีวิต! - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 7 จงทำตัวให้ลึกลับ! - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 7 จงทำตัวให้ลึกลับ! - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 8 การเข้าหาผู้หญิง - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 8 การเข้าหาผู้หญิง - Anti-Dump (รวบรวมโดย Pook)]]
+[[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 9 เตรียมพร้อมเสมอ! - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 9 เตรียมพร้อมเสมอ! - Anti-Dump (รวบรวมโดย Pook)]]
+
+---
+## รีวิวและประสบการณ์จริง
+
+[[Reference/Donjuan/รีวิวและประสบการณ์จริง/ถึงเหล่ามือใหม่, คนอกหัก, และพวกหัวรั้นทั้งหลาย - เชื่อคำแนะนำของคนในนี้เถอะ - Lotus Effect\|ถึงเหล่ามือใหม่, คนอกหัก, และพวกหัวรั้นทั้งหลาย - เชื่อคำแนะนำของคนในนี้เถอะ - Lotus Effect]]
+[[Reference/Donjuan/รีวิวและประสบการณ์จริง/10 ปีของผมที่ Sosuave - Desdinova\|10 ปีของผมที่ Sosuave - Desdinova]]
+[[Reference/Donjuan/รีวิวและประสบการณ์จริง/แค่คำขอบคุณง่ายๆ - ZTIME\|แค่คำขอบคุณง่ายๆ - ZTIME]]
+
+
 
 

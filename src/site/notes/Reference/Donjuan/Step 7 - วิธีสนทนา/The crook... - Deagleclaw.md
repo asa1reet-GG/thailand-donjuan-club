@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Reference/Donjuan/Step 7 - วิธีสนทนา/The crook... - Deagleclaw/"}
 ---
 
-
 **ไงพวก**
 
 นี่คือท่าไม้ตายที่จะช่วยให้คุณดูหล่อเท่และมั่นคงสุดๆ ในช่วงเดทแรกๆ

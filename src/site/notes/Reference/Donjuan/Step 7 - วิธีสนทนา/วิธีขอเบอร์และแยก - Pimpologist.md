@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/Reference/Donjuan/Step 7 - วิธีสนทนา/วิธีขอเบอร์และแยก - Pimpologist/"}
 ---
 
-
-
 **“เราต้องไปแล้วล่ะ เดี๋ยวไว้โทรหานะ... ขอเบอร์หน่อยดิ”**
 **- Masta Pimp**
 
