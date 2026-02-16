@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/donjuan/thailand-don-juan-club/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Reference/Donjuan/ยินดีต้อนรับสู่ Thailand DonJuan Club/","tags":["gardenEntry"]}
 ---
 
 # <span style="color:#f1c40f">ตำราดอนฮวนฉบับดั้งเดิม</span>
