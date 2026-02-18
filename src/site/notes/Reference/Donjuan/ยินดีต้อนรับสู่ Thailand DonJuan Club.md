@@ -72,7 +72,7 @@
 ---
 ## Step 3 - คนเลว vs. คนดี
 - [[Reference/Donjuan/Step 3 - jerk vs nice guy/คนเลว vs. คนดี ภาคไม่จบไม่สิ้น - Adonis\|คนเลว vs. คนดี ภาคไม่จบไม่สิ้น - Adonis]]
-- [[Reference/Donjuan/Step 3 - jerk vs nice guy/ความลับของ Jerk\|ความลับของ Jerk]]
+- [[Reference/Donjuan/Step 3 - jerk vs nice guy/ความลับของ Jerk - Pook\|ความลับของ Jerk - Pook]]
 - [[Reference/Donjuan/Step 3 - jerk vs nice guy/คำสารภาพของพ่อหนุ่มแสนดี - CoolHandLuke\|คำสารภาพของพ่อหนุ่มแสนดี - CoolHandLuke]]
 - [[Reference/Donjuan/Step 3 - jerk vs nice guy/คู่มือคนเลวที่แสนดี - BigDon\|คู่มือคนเลวที่แสนดี - BigDon]]
 - [[Reference/Donjuan/Step 3 - jerk vs nice guy/ทฤษฎี ขี้ - RonJuan\|ทฤษฎี ขี้ - RonJuan]]
@@ -274,23 +274,22 @@
 
 ---
 ## ความสัมพันธ์ระยะยาว
-- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/LTR กับการตามหาความสุข - Pneuma\|LTR กับการตามหาความสุข - Pneuma]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/MLTR, การเดทผู้หญิงมากกว่าหนึ่งคนพร้อมๆกัน - Jake Steed\|MLTR, การเดทผู้หญิงมากกว่าหนึ่งคนพร้อมๆกัน - Jake Steed]]
-- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/การวางขอบเขต - guru1000\|การวางขอบเขต - guru1000]]
+- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/LTR กับการตามหาความสุข - Pneuma\|LTR กับการตามหาความสุข - Pneuma]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ความเข้ากันได้ในความสัมพันธ์ระยะยาว (LTR) - Take No Dirt\|ความเข้ากันได้ในความสัมพันธ์ระยะยาว (LTR) - Take No Dirt]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ความสัมพันธ์ระยะยาว (LTR)  - Nine Breaker\|ความสัมพันธ์ระยะยาว (LTR)  - Nine Breaker]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/พัฒนาการตามธรรมชาติของความสัมพันธ์ - Wyldfire\|พัฒนาการตามธรรมชาติของความสัมพันธ์ - Wyldfire]]
-- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster\|โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/วิธีมัดใจสาวให้อยู่กับเราไปนานๆ - Take No Dirt\|วิธีมัดใจสาวให้อยู่กับเราไปนานๆ - Take No Dirt]]
-- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl\|ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl]]
 - [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/สุดยอดคำแนะนำสำหรับความสัมพันธ์ระยะยาว (LTRs) - Gold Heart\|สุดยอดคำแนะนำสำหรับความสัมพันธ์ระยะยาว (LTRs) - Gold Heart]]
+- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl\|ส่วนสำคัญของมิตรภาพในความสัมพันธ์ระยะยาว (LTR) - VeryBadGirl]]
+- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster\|โพสต์ยาวๆ ว่าด้วยเรื่องความสัมพันธ์ระยะยาว - Krynnster]]
+- [[Reference/Donjuan/ความสัมพันธ์ระยะยาว/การวางขอบเขต - guru1000\|การวางขอบเขต - guru1000]]
 
 { .block-language-dataview}
 
 ---
 ## แนวคิด Anti-Dump (รวบรวมโดย Pook)
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 1 ระดับความสนใจ - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 1 ระดับความสนใจ - Anti-Dump (รวบรวมโดย Pook)]]
-- [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)]]
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 2 ระดับความสนใจที่มากขึ้น - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 2 ระดับความสนใจที่มากขึ้น - Anti-Dump (รวบรวมโดย Pook)]]
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 3 คุณ 'ซื้อ' ความสัมพันธ์ ไม่ใช่ 'สร้าง' มันขึ้นมา - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 3 คุณ 'ซื้อ' ความสัมพันธ์ ไม่ใช่ 'สร้าง' มันขึ้นมา - Anti-Dump (รวบรวมโดย Pook)]]
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 4 โอบรับการลงมือทำ จุดอ่อนของผู้หญิง - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 4 โอบรับการลงมือทำ จุดอ่อนของผู้หญิง - Anti-Dump (รวบรวมโดย Pook)]]
@@ -299,9 +298,9 @@
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 7 จงทำตัวให้ลึกลับ! - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 7 จงทำตัวให้ลึกลับ! - Anti-Dump (รวบรวมโดย Pook)]]
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 8 การเข้าหาผู้หญิง - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 8 การเข้าหาผู้หญิง - Anti-Dump (รวบรวมโดย Pook)]]
 - [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 9 เตรียมพร้อมเสมอ! - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 9 เตรียมพร้อมเสมอ! - Anti-Dump (รวบรวมโดย Pook)]]
+- [[Reference/Donjuan/แนวคิด Anti-Dump (รวบรวมโดย Pook)/ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)\|ตอนที่ 10 หลังการเดท - Anti-Dump (รวบรวมโดย Pook)]]
 
 { .block-language-dataview}
-
 ---
 ## รีวิวและประสบการณ์จริง
 - [[Reference/Donjuan/รีวิวและประสบการณ์จริง/10 ปีของผมที่ Sosuave - Desdinova\|10 ปีของผมที่ Sosuave - Desdinova]]
